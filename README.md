@@ -1,17 +1,12 @@
-# act8_frrn_tour
+# Act 8 Formulario dicionario y agente flutter
 
-A new Flutter project.
+## Pantallas
 
-## Getting Started
+### Inicio
+<img width="928" height="948" alt="image" src="https://github.com/user-attachments/assets/931a63d2-f8c4-4ef4-a7fb-35711f2dce20" />
 
-This project is a starting point for a Flutter application.
+### Capturar tours
+<img width="931" height="951" alt="image" src="https://github.com/user-attachments/assets/14842f46-c877-4d40-af3e-adc9abf0191c" />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Ver tours
+<img width="929" height="952" alt="image" src="https://github.com/user-attachments/assets/7b43ef08-0cb2-4377-8609-298a2bd82fbc" />
